@@ -4,3 +4,4 @@ Programa de matlab para realizar un ajuste de mínimos cuadrados de una nube de 
 Laboratorio de Transmisión del Calor 2020-2021
 
 Andrés Fernández Muñoz
+
